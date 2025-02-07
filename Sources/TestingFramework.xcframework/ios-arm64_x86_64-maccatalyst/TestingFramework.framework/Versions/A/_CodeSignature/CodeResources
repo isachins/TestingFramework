@@ -22,14 +22,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RxpuLONNDNjaMEaZbd3aV+XXIhHURcsoJ+Y2gZ9udMc=
+			bDwNeygnGHf1X+dkv8AqxCzpnFa5qRFG7Pcp05hMfNQ=
 			</data>
 		</dict>
 		<key>Modules/TestingFramework.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vc+zP0NNCYzQyEWIzC2HSmWoPSYpOtCRyCkeGwzZGsg=
+			XFYvlD+CnfmbmU3FMdJUExcEvz5nv0Ij4OIh9wE4Q7c=
 			</data>
 		</dict>
 		<key>Modules/TestingFramework.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -43,28 +43,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vc+zP0NNCYzQyEWIzC2HSmWoPSYpOtCRyCkeGwzZGsg=
+			XFYvlD+CnfmbmU3FMdJUExcEvz5nv0Ij4OIh9wE4Q7c=
 			</data>
 		</dict>
 		<key>Modules/TestingFramework.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4xMtWWtw+YXbaRVEcww8aKPb6WRwj33TYB2ojPqWvq8=
+			RoGUNeBW8Gy3MO/fRw7xj7448Q9r1VwOWphetpoiIfQ=
 			</data>
 		</dict>
 		<key>Modules/TestingFramework.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RxpuLONNDNjaMEaZbd3aV+XXIhHURcsoJ+Y2gZ9udMc=
+			bDwNeygnGHf1X+dkv8AqxCzpnFa5qRFG7Pcp05hMfNQ=
 			</data>
 		</dict>
 		<key>Modules/TestingFramework.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nPz1xHA+ueworAOQsmWO07RRuqFYr6uKXLPyQEMHl1I=
+			hKC1MTciYknrd3Ee9i96g3REBPSeozl+3MkLzznCpp4=
 			</data>
 		</dict>
 		<key>Modules/TestingFramework.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nPz1xHA+ueworAOQsmWO07RRuqFYr6uKXLPyQEMHl1I=
+			hKC1MTciYknrd3Ee9i96g3REBPSeozl+3MkLzznCpp4=
 			</data>
 		</dict>
 		<key>Modules/TestingFramework.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VsYJYKDPmyYaFOLiK6Qicg3A/gQ2nBZgvdZd7Rwf8jA=
+			SkgPb7jEjVtPXA9iRNahV+8hLdgAhUk7ZkyieUf2wHU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

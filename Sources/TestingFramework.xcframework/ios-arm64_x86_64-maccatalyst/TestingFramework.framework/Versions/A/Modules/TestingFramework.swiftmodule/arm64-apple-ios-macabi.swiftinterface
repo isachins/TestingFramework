@@ -3,11 +3,29 @@
 // swift-module-flags: -target arm64-apple-ios18.2-macabi -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name TestingFramework
 import Foundation
 import Swift
+import SwiftUI
 @_exported import TestingFramework
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+@_Concurrency.MainActor @preconcurrency public struct TestingView : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init()
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s16TestingFramework0A4ViewV4bodyQrvp", 0) __
+}
+@_Concurrency.MainActor @preconcurrency public struct DestinationView : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public init()
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s16TestingFramework15DestinationViewV4bodyQrvp", 0) __
+}
+
 public struct SDK {
   public static func configure(apiKey: Swift.String)
   public static func doSomeWork()
 }
+extension TestingFramework.TestingView : Swift.Sendable {}
+extension TestingFramework.DestinationView : Swift.Sendable {}
